@@ -2,7 +2,7 @@
 <div class="team" id="team">
     <div class="container">
       <div class="title">
-        <h2>Client</h2>
+        <h2>Our Client</h2>
       </div>
       <div class="cols">
         <div class="slider">
